@@ -8,3 +8,8 @@ Calculadora construída em HTML, CSS e JS. Possui funções de copiar o resultad
 
 ### Execução
 Executar arquivo index.html
+
+### Imagens do projeto
+
+<img src="./images/imageDark.png">
+<img src="./images/imageLight.png">
